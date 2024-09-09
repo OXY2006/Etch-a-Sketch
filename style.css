@@ -32,9 +32,11 @@ body {
 }
 
 .change-background{
-    background-color: black;
+    background-color: greenyellow;
 }
 
 button{
-    margin-top: 50px;
+    margin: 50px;
+    width: 100px;
+    height: 50px;
 }
